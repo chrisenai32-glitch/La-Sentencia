@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: a47b7ac82ec2b2a46a0b7a10ce223d1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7648839157400271671
+    second: Cursor Dourado Pixelado Ativado_0
+  - first:
+      213: 2307245517081438357
+    second: Cursor Dourado Pixelado Ativado_1
+  - first:
+      213: 283335318328100644
+    second: Cursor Dourado Pixelado Ativado_2
+  - first:
+      213: 6503240885574112715
+    second: Cursor Dourado Pixelado Ativado_3
+  - first:
+      213: -9154791661050274359
+    second: Cursor Dourado Pixelado Ativado_4
+  - first:
+      213: -4087659910309025950
+    second: Cursor Dourado Pixelado Ativado_5
+  - first:
+      213: 8739294139574493273
+    second: Cursor Dourado Pixelado Ativado_6
+  - first:
+      213: -7376916209993540133
+    second: Cursor Dourado Pixelado Ativado_7
+  - first:
+      213: 2560673534336190570
+    second: Cursor Dourado Pixelado Ativado_8
+  - first:
+      213: -8949082554632654524
+    second: Cursor Dourado Pixelado Ativado_9
+  - first:
+      213: -1819777611305548286
+    second: Cursor Dourado Pixelado Ativado_10
+  - first:
+      213: 3674035889465508799
+    second: Cursor Dourado Pixelado Ativado_11
+  - first:
+      213: -5231711035306867989
+    second: Cursor Dourado Pixelado Ativado_12
+  - first:
+      213: -9200081209275527790
+    second: Cursor Dourado Pixelado Ativado_13
+  - first:
+      213: 1924201690739121410
+    second: Cursor Dourado Pixelado Ativado_14
+  - first:
+      213: -7530528118016896904
+    second: Cursor Dourado Pixelado Ativado_15
+  - first:
+      213: 17176141792646371
+    second: Cursor Dourado Pixelado Ativado_16
+  - first:
+      213: -4732935043686266836
+    second: Cursor Dourado Pixelado Ativado_17
+  - first:
+      213: 1793629348900619442
+    second: Cursor Dourado Pixelado Ativado_18
+  - first:
+      213: 2329799497562908377
+    second: Cursor Dourado Pixelado Ativado_19
+  - first:
+      213: 1238677192698496835
+    second: Cursor Dourado Pixelado Ativado_20
+  - first:
+      213: -3395399147436246387
+    second: Cursor Dourado Pixelado Ativado_21
+  - first:
+      213: 1511896808820640747
+    second: Cursor Dourado Pixelado Ativado_22
+  - first:
+      213: 631871139990302348
+    second: Cursor Dourado Pixelado Ativado_23
+  - first:
+      213: -8959029130704242027
+    second: Cursor Dourado Pixelado Ativado_24
+  - first:
+      213: -1745770573659931361
+    second: Cursor Dourado Pixelado Ativado_25
+  - first:
+      213: 1214842328870407730
+    second: Cursor Dourado Pixelado Ativado_26
+  - first:
+      213: -5289499984530642675
+    second: Cursor Dourado Pixelado Ativado_27
+  - first:
+      213: 1455504694044334166
+    second: Cursor Dourado Pixelado Ativado_28
+  - first:
+      213: -7676526804473888723
+    second: Cursor Dourado Pixelado Ativado_29
+  - first:
+      213: 9083798284147005370
+    second: Cursor Dourado Pixelado Ativado_30
+  - first:
+      213: 9192536505256005496
+    second: Cursor Dourado Pixelado Ativado_31
+  - first:
+      213: -7703707120391461528
+    second: Cursor Dourado Pixelado Ativado_32
+  - first:
+      213: 6436906885218654960
+    second: Cursor Dourado Pixelado Ativado_33
+  - first:
+      213: 8015471459334243176
+    second: Cursor Dourado Pixelado Ativado_34
+  - first:
+      213: -69496500334666478
+    second: Cursor Dourado Pixelado Ativado_35
+  - first:
+      213: -4364536113351421800
+    second: Cursor Dourado Pixelado Ativado_36
+  - first:
+      213: -8351890373901689973
+    second: Cursor Dourado Pixelado Ativado_37
+  - first:
+      213: 839867768715761915
+    second: Cursor Dourado Pixelado Ativado_38
+  - first:
+      213: -8139962959825848117
+    second: Cursor Dourado Pixelado Ativado_39
+  - first:
+      213: 6990749911726439501
+    second: Cursor Dourado Pixelado Ativado_40
+  - first:
+      213: -3370870755163586560
+    second: Cursor Dourado Pixelado Ativado_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1237
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf0f830b2262a60800000000000000
+      internalID: 7648839157400271671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 1104
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598604fc29bf40020800000000000000
+      internalID: 2307245517081438357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1213
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c44988fb9ee300800000000000000
+      internalID: 283335318328100644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc511793127204a50800000000000000
+      internalID: 6503240885574112715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1148
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd36a0d75a3f080800000000000000
+      internalID: -9154791661050274359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1136
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ec6b08f6b547c0800000000000000
+      internalID: -4087659910309025950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950adf897b5384970800000000000000
+      internalID: 8739294139574493273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1094
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9385aacdef9990800000000000000
+      internalID: -7376916209993540133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1094
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a684adf2307598320800000000000000
+      internalID: 2560673534336190570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 947
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b971b4d87ec380800000000000000
+      internalID: -8949082554632654524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 931
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068ce377e9deb6e0800000000000000
+      internalID: -1819777611305548286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1046
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c0a3fc2cccf230800000000000000
+      internalID: 3674035889465508799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1050
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be20b0d388a3567b0800000000000000
+      internalID: -5231711035306867989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_13
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 907
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dc26062eeb25080800000000000000
+      internalID: -9200081209275527790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 851
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d16bc2e3324ba10800000000000000
+      internalID: 1924201690739121410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 821
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870138a33903e7790800000000000000
+      internalID: -7530528118016896904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 843
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e499262c950d3000800000000000000
+      internalID: 17176141792646371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 122
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28051867ac315eb0800000000000000
+      internalID: -4732935043686266836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 92
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4cfe7c36044e810800000000000000
+      internalID: 1793629348900619442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 328
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ee1a9c4c155020800000000000000
+      internalID: 2329799497562908377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 335
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3470c2e085aa03110800000000000000
+      internalID: 1238677192698496835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 570
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af56a077e11e0d0800000000000000
+      internalID: -3395399147436246387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 807
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb0dc223265bf410800000000000000
+      internalID: 1511896808820640747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 690
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e61fa347bd4c800800000000000000
+      internalID: 631871139990302348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_24
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 657
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a3ffbf8722ba380800000000000000
+      internalID: -8959029130704242027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_25
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 561
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d7ba9a9e6c5c7e0800000000000000
+      internalID: -1745770573659931361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_26
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 650
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ecd6e59acfbd010800000000000000
+      internalID: 1214842328870407730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_27
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 624
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ed9ef9cbe796b0800000000000000
+      internalID: -5289499984530642675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_28
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 485
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581d61cecdf23410800000000000000
+      internalID: 1455504694044334166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_29
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 503
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20c1961b8f777590800000000000000
+      internalID: -7676526804473888723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_30
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 343
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab792e15962201e70800000000000000
+      internalID: 9083798284147005370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_31
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 586
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f48945f33729f70800000000000000
+      internalID: 9192536505256005496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_32
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 481
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8656b63a03fe61590800000000000000
+      internalID: -7703707120391461528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_33
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 568
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa59b935bc745950800000000000000
+      internalID: 6436906885218654960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_34
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 337
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86346e013dcac3f60800000000000000
+      internalID: 8015471459334243176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_35
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 455
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d5b681d49190ff0800000000000000
+      internalID: -69496500334666478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_36
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 291
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890135a778d0e63c0800000000000000
+      internalID: -4364536113351421800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_37
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 234
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bd59484ff181c80800000000000000
+      internalID: -8351890373901689973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_38
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 194
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf85a9c294fc7ab00800000000000000
+      internalID: 839867768715761915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_39
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc83ebeb0da090f80800000000000000
+      internalID: -8139962959825848117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_40
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 187
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3c029102240160800000000000000
+      internalID: 6990749911726439501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cursor Dourado Pixelado Ativado_41
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000c8b668e24831d0800000000000000
+      internalID: -3370870755163586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cursor Dourado Pixelado Ativado_0: 7648839157400271671
+      Cursor Dourado Pixelado Ativado_1: 2307245517081438357
+      Cursor Dourado Pixelado Ativado_10: -1819777611305548286
+      Cursor Dourado Pixelado Ativado_11: 3674035889465508799
+      Cursor Dourado Pixelado Ativado_12: -5231711035306867989
+      Cursor Dourado Pixelado Ativado_13: -9200081209275527790
+      Cursor Dourado Pixelado Ativado_14: 1924201690739121410
+      Cursor Dourado Pixelado Ativado_15: -7530528118016896904
+      Cursor Dourado Pixelado Ativado_16: 17176141792646371
+      Cursor Dourado Pixelado Ativado_17: -4732935043686266836
+      Cursor Dourado Pixelado Ativado_18: 1793629348900619442
+      Cursor Dourado Pixelado Ativado_19: 2329799497562908377
+      Cursor Dourado Pixelado Ativado_2: 283335318328100644
+      Cursor Dourado Pixelado Ativado_20: 1238677192698496835
+      Cursor Dourado Pixelado Ativado_21: -3395399147436246387
+      Cursor Dourado Pixelado Ativado_22: 1511896808820640747
+      Cursor Dourado Pixelado Ativado_23: 631871139990302348
+      Cursor Dourado Pixelado Ativado_24: -8959029130704242027
+      Cursor Dourado Pixelado Ativado_25: -1745770573659931361
+      Cursor Dourado Pixelado Ativado_26: 1214842328870407730
+      Cursor Dourado Pixelado Ativado_27: -5289499984530642675
+      Cursor Dourado Pixelado Ativado_28: 1455504694044334166
+      Cursor Dourado Pixelado Ativado_29: -7676526804473888723
+      Cursor Dourado Pixelado Ativado_3: 6503240885574112715
+      Cursor Dourado Pixelado Ativado_30: 9083798284147005370
+      Cursor Dourado Pixelado Ativado_31: 9192536505256005496
+      Cursor Dourado Pixelado Ativado_32: -7703707120391461528
+      Cursor Dourado Pixelado Ativado_33: 6436906885218654960
+      Cursor Dourado Pixelado Ativado_34: 8015471459334243176
+      Cursor Dourado Pixelado Ativado_35: -69496500334666478
+      Cursor Dourado Pixelado Ativado_36: -4364536113351421800
+      Cursor Dourado Pixelado Ativado_37: -8351890373901689973
+      Cursor Dourado Pixelado Ativado_38: 839867768715761915
+      Cursor Dourado Pixelado Ativado_39: -8139962959825848117
+      Cursor Dourado Pixelado Ativado_4: -9154791661050274359
+      Cursor Dourado Pixelado Ativado_40: 6990749911726439501
+      Cursor Dourado Pixelado Ativado_41: -3370870755163586560
+      Cursor Dourado Pixelado Ativado_5: -4087659910309025950
+      Cursor Dourado Pixelado Ativado_6: 8739294139574493273
+      Cursor Dourado Pixelado Ativado_7: -7376916209993540133
+      Cursor Dourado Pixelado Ativado_8: 2560673534336190570
+      Cursor Dourado Pixelado Ativado_9: -8949082554632654524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

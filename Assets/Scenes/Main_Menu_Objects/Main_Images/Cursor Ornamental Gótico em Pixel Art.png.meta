@@ -1,0 +1,4381 @@
+fileFormatVersion: 2
+guid: ccd793109813cd849ad375396a3f3842
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2607837884285843886
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_0"
+  - first:
+      213: -3891646715675292407
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_1"
+  - first:
+      213: -8083703788387066439
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_2"
+  - first:
+      213: -3219274876795517309
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_3"
+  - first:
+      213: 6463813410784651692
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_4"
+  - first:
+      213: -3133360751244636424
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_5"
+  - first:
+      213: 2504802929546017980
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_6"
+  - first:
+      213: -5247900321318747925
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_7"
+  - first:
+      213: 5224053166063401463
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_8"
+  - first:
+      213: -8997221182530655769
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_9"
+  - first:
+      213: 4446886668655622596
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_10"
+  - first:
+      213: 3350138437661966914
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_11"
+  - first:
+      213: -4764492791411748267
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_12"
+  - first:
+      213: -4364614775783794126
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_13"
+  - first:
+      213: 1656250478291920933
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_14"
+  - first:
+      213: 1354604471547350786
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_15"
+  - first:
+      213: -5446394438611625077
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_16"
+  - first:
+      213: 2153675363032822738
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_17"
+  - first:
+      213: 4273821203209424306
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_18"
+  - first:
+      213: -4584098596675168834
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_19"
+  - first:
+      213: 7310796634813904514
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_20"
+  - first:
+      213: -7209023387761227966
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_21"
+  - first:
+      213: -1687870073580932708
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_22"
+  - first:
+      213: 2120817656854249638
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_23"
+  - first:
+      213: 3469002951014094161
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_24"
+  - first:
+      213: 9016893488729353814
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_25"
+  - first:
+      213: 8372397859689455663
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_26"
+  - first:
+      213: -3273370946459926194
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_27"
+  - first:
+      213: 5080921464824227615
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_28"
+  - first:
+      213: 2096021805892319713
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_29"
+  - first:
+      213: -2170860419334986030
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_30"
+  - first:
+      213: 2807743229259117712
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_31"
+  - first:
+      213: 5790737865259138448
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_32"
+  - first:
+      213: -4665764414743196122
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_33"
+  - first:
+      213: 1545708967658177834
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_34"
+  - first:
+      213: 1030221982287194544
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_35"
+  - first:
+      213: -2794876457086342076
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_36"
+  - first:
+      213: 6964235559791460123
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_37"
+  - first:
+      213: -7412207261435673826
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_38"
+  - first:
+      213: 7785462522074340887
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_39"
+  - first:
+      213: 8406253947564634325
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_40"
+  - first:
+      213: -643053665381410022
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_41"
+  - first:
+      213: -7915141764158962992
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_42"
+  - first:
+      213: -316374220481791734
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_43"
+  - first:
+      213: 5797157639184933406
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_44"
+  - first:
+      213: -173375821043014993
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_45"
+  - first:
+      213: -560853394527154287
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_46"
+  - first:
+      213: 3113219125490451625
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_47"
+  - first:
+      213: -7996216341336264579
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_48"
+  - first:
+      213: -8133815592921664315
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_49"
+  - first:
+      213: 7877260488137151663
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_50"
+  - first:
+      213: 8407361157386326305
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_51"
+  - first:
+      213: -5493425452314536427
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_52"
+  - first:
+      213: 7823763756105258398
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_53"
+  - first:
+      213: 3772935171594891428
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_54"
+  - first:
+      213: 834152940564577124
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_55"
+  - first:
+      213: 2356744376962373849
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_56"
+  - first:
+      213: -372676718952531366
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_57"
+  - first:
+      213: -8286232353502619967
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_58"
+  - first:
+      213: 2515075080052149978
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_59"
+  - first:
+      213: 3447616478658270767
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_60"
+  - first:
+      213: 733817070190628967
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_61"
+  - first:
+      213: -1190134303113607809
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_62"
+  - first:
+      213: -3403835901417465642
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_63"
+  - first:
+      213: -41601914784709006
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_64"
+  - first:
+      213: -4909578005844973455
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_65"
+  - first:
+      213: 753825317658053758
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_66"
+  - first:
+      213: -7341689842102864343
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_67"
+  - first:
+      213: -1127736565396289838
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_68"
+  - first:
+      213: -6332936704076328387
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_69"
+  - first:
+      213: 8602409579948414375
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_70"
+  - first:
+      213: 3212255580270065444
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_71"
+  - first:
+      213: -5594502545874008961
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_72"
+  - first:
+      213: -3470315579145313884
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_73"
+  - first:
+      213: -8765818565856315051
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_74"
+  - first:
+      213: -1697632174375676701
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_75"
+  - first:
+      213: 700278125211497678
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_76"
+  - first:
+      213: -1240854382776390375
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_77"
+  - first:
+      213: 1306296398738193310
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_78"
+  - first:
+      213: 4494791683577016414
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_79"
+  - first:
+      213: -2516252870253841616
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_80"
+  - first:
+      213: -3563503145163597951
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_81"
+  - first:
+      213: -7887831988750271274
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_82"
+  - first:
+      213: 6907778340059554210
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_83"
+  - first:
+      213: -5072712057717387096
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_84"
+  - first:
+      213: 3003126955462031402
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_85"
+  - first:
+      213: -3103106042416155198
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_86"
+  - first:
+      213: 428641375043167880
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_87"
+  - first:
+      213: 6849466465435513647
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_88"
+  - first:
+      213: -2674950313497053487
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_89"
+  - first:
+      213: 8039917526505021067
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_90"
+  - first:
+      213: 8079375702281510793
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_91"
+  - first:
+      213: 3247024190675731707
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_92"
+  - first:
+      213: 574136564880876033
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_93"
+  - first:
+      213: 316049658028277173
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_94"
+  - first:
+      213: 6838553116208776293
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_95"
+  - first:
+      213: 4639511070483369762
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_96"
+  - first:
+      213: -7137519995401136868
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_97"
+  - first:
+      213: -7227354708042235591
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_98"
+  - first:
+      213: -9012359389363573356
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_99"
+  - first:
+      213: -1802873208805057757
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_100"
+  - first:
+      213: 6654161628296848467
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_101"
+  - first:
+      213: -322130820868095346
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_102"
+  - first:
+      213: -6750484590835389381
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_103"
+  - first:
+      213: 9057893827934355544
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_104"
+  - first:
+      213: 854375107775715421
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_105"
+  - first:
+      213: -2756410138507583546
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_106"
+  - first:
+      213: -7234936959693131698
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_107"
+  - first:
+      213: -8532194965570521128
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_108"
+  - first:
+      213: -4204836043252747234
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_109"
+  - first:
+      213: 6202674555591747284
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_110"
+  - first:
+      213: 7518658033703154192
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_111"
+  - first:
+      213: -9011444986615316520
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_112"
+  - first:
+      213: 851703878074151685
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_113"
+  - first:
+      213: -5475266919966291921
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_114"
+  - first:
+      213: 2155294838206459885
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_115"
+  - first:
+      213: 7824883308736305529
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_116"
+  - first:
+      213: -3011071577253633636
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_117"
+  - first:
+      213: 1614445886195500189
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_118"
+  - first:
+      213: -5755352575781013159
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_119"
+  - first:
+      213: -4269777262347977340
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_120"
+  - first:
+      213: -5720055431594430357
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_121"
+  - first:
+      213: 5314789789350927114
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_122"
+  - first:
+      213: 2928228498975928859
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_123"
+  - first:
+      213: -2987809162001707919
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_124"
+  - first:
+      213: 3610784855058914055
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_125"
+  - first:
+      213: -3163376042621069825
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_126"
+  - first:
+      213: 3487864196485444880
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_127"
+  - first:
+      213: 1585824058967489139
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_128"
+  - first:
+      213: 3423120204485963562
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_129"
+  - first:
+      213: 5346430365055276659
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_130"
+  - first:
+      213: 5025374679750209125
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_131"
+  - first:
+      213: -6338791026217435578
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_132"
+  - first:
+      213: -124471202654725111
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_133"
+  - first:
+      213: 2936433770128993598
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_134"
+  - first:
+      213: -3752950151118699701
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_135"
+  - first:
+      213: 2782252157035281920
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_136"
+  - first:
+      213: 5784012070466113902
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_137"
+  - first:
+      213: 8651934348323966529
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_138"
+  - first:
+      213: -560275484080136871
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_139"
+  - first:
+      213: -1814162736888778007
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_140"
+  - first:
+      213: -6394219297785031269
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_141"
+  - first:
+      213: -1279598155036976069
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_142"
+  - first:
+      213: 4786530499205236951
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_143"
+  - first:
+      213: 4531467158580500524
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_144"
+  - first:
+      213: 6815106300834366787
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_145"
+  - first:
+      213: 9155673403034824987
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_146"
+  - first:
+      213: -6234610740719723139
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_147"
+  - first:
+      213: -8731754751804681167
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_148"
+  - first:
+      213: 1978499084321660114
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_149"
+  - first:
+      213: -1263565814958570220
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_150"
+  - first:
+      213: 4628585294505299907
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_151"
+  - first:
+      213: -3647635614655466761
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_152"
+  - first:
+      213: 1951378512769957973
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_153"
+  - first:
+      213: -8009424812531302948
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_154"
+  - first:
+      213: 8039501921667548883
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_155"
+  - first:
+      213: -5410850522370246750
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_156"
+  - first:
+      213: -3152576797054574868
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_157"
+  - first:
+      213: -3871765564311616013
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_158"
+  - first:
+      213: -8857509395911426675
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_159"
+  - first:
+      213: 8386114034746231135
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_160"
+  - first:
+      213: -9194802176146573591
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_161"
+  - first:
+      213: 6143809372750096659
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_162"
+  - first:
+      213: 3106993589253833065
+    second: "Cursor Ornamental G\xF3tico em Pixel Art_163"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1237
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256065bd2491fcbd0800000000000000
+      internalID: -2607837884285843886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_1"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 1161
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dcbd05ee71ef9c0800000000000000
+      internalID: -3891646715675292407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_2"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1224
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd95b7db3ae0df80800000000000000
+      internalID: -8083703788387066439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_3"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1205
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38683465e86d253d0800000000000000
+      internalID: -3219274876795517309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_4"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1245
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a934ec0414b950800000000000000
+      internalID: 6463813410784651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_5"
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1211
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe89ec7ff01484d0800000000000000
+      internalID: -3133360751244636424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_6"
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1124
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb2ff4ef8d2c220800000000000000
+      internalID: 2504802929546017980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_7"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1240
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0432b5676bb27b0800000000000000
+      internalID: -5247900321318747925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1179
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b6f22da09f7840800000000000000
+      internalID: 5224053166063401463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_9"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1153
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9e3a9f003732380800000000000000
+      internalID: -8997221182530655769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_10"
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1223
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c973a15dd386bd30800000000000000
+      internalID: 4446886668655622596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_11"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1178
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2424935c8251e7e20800000000000000
+      internalID: 3350138437661966914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_12"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1156
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525ef0bc0f11edb0800000000000000
+      internalID: -4764492791411748267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_13"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1162
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a5cf37cf5cd63c0800000000000000
+      internalID: -4364614775783794126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857
+        width: 79
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52829a9e80f2cf610800000000000000
+      internalID: 1656250478291920933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_15"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1130
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f4cb107958cc210800000000000000
+      internalID: 1354604471547350786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_16"
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1138
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b14e34d158a64b0800000000000000
+      internalID: -5446394438611625077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_17"
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1140
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f41ff45463ed10800000000000000
+      internalID: 2153675363032822738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_18"
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd84da9db9af4b30800000000000000
+      internalID: 4273821203209424306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_19"
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1094
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb55fc92d920260c0800000000000000
+      internalID: -4584098596675168834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_20"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1114
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286343b1eca257560800000000000000
+      internalID: 7310796634813904514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_21"
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1100
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24742038c6764fb90800000000000000
+      internalID: -7209023387761227966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_22"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1034
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91323d5c1b7398e0800000000000000
+      internalID: -1687870073580932708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_23"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1100
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a08c2e1c68ae6d10800000000000000
+      internalID: 2120817656854249638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_24"
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1061
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1551afbedcf542030800000000000000
+      internalID: 3469002951014094161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_25"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1002
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eee3dbad0722d70800000000000000
+      internalID: 9016893488729353814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_26"
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1070
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e7099e7bb03470800000000000000
+      internalID: 8372397859689455663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_27"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1023
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e410c2e9776a292d0800000000000000
+      internalID: -3273370946459926194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_28"
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1040
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176182072f038640800000000000000
+      internalID: 5080921464824227615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_29"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1008
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e93fad2ab0961d10800000000000000
+      internalID: 2096021805892319713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_30"
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 901
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6259843fd8fd1e0800000000000000
+      internalID: -2170860419334986030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_31"
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1011
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0947f78479b17f620800000000000000
+      internalID: 2807743229259117712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_32"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 958
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dbc266865dc5050800000000000000
+      internalID: 5790737865259138448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_33"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 934
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ec29d2cffdf3fb0800000000000000
+      internalID: -4665764414743196122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_34"
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 921
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c667dd16737510800000000000000
+      internalID: 1545708967658177834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_35"
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 915
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e60e3f651c4e00800000000000000
+      internalID: 1030221982287194544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_36"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 917
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c24409baa9639d0800000000000000
+      internalID: -2794876457086342076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_37"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 891
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f7381f75fe5a060800000000000000
+      internalID: 6964235559791460123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_38"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 889
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134e8c64cc822990800000000000000
+      internalID: -7412207261435673826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_39"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 889
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e9b582ae48b0c60800000000000000
+      internalID: 7785462522074340887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_40"
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 885
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0b0545d6309a470800000000000000
+      internalID: 8406253947564634325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_41"
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 890
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9d6f291a6317f0800000000000000
+      internalID: -643053665381410022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_42"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 882
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d242707084c72290800000000000000
+      internalID: -7915141764158962992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_43"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 872
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09771c92530c9bf0800000000000000
+      internalID: -316374220481791734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_44"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 875
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e126f8e7824a37050800000000000000
+      internalID: 5797157639184933406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_45"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 861
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2e61efb9b089df0800000000000000
+      internalID: -173375821043014993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_46"
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 875
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f03282fc27738f0800000000000000
+      internalID: -560853394527154287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_47"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 868
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48fc2dc40643b20800000000000000
+      internalID: 3113219125490451625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_48"
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 853
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d707a737a9bb70190800000000000000
+      internalID: -7996216341336264579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_49"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 771
+        width: 203
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4fe5320d1ee1f80800000000000000
+      internalID: -8133815592921664315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_50"
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 858
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa492aeada6a15d60800000000000000
+      internalID: 7877260488137151663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_51"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 6
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121dd64bd62fca470800000000000000
+      internalID: 8407361157386326305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_52"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 833
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d3b218ae63c3b0800000000000000
+      internalID: -5493425452314536427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_53"
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 742
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95da312fa7939c60800000000000000
+      internalID: 7823763756105258398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_54"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 811
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0bd777c882c5430800000000000000
+      internalID: 3772935171594891428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_55"
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 819
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf2be0ea1839b00800000000000000
+      internalID: 834152940564577124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_56"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 746
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8dd373686d4b020800000000000000
+      internalID: 2356744376962373849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_57"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 688
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ab6c6af7cf3daf0800000000000000
+      internalID: -372676718952531366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_58"
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 722
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6902ba393610d80800000000000000
+      internalID: -8286232353502619967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_59"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 763
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade02f9b57757e220800000000000000
+      internalID: 2515075080052149978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_60"
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 660
+        width: 34
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26953ccbe468df20800000000000000
+      internalID: 3447616478658270767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_61"
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 747
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76094d6ccba0f2a00800000000000000
+      internalID: 733817070190628967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_62"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 730
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7508eb282bcb7fe0800000000000000
+      internalID: -1190134303113607809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_63"
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 682
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85a4e284523c0d0800000000000000
+      internalID: -3403835901417465642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_64"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 658
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276084767433c6ff0800000000000000
+      internalID: -41601914784709006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_65"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 680
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782a84d0dcaddbb0800000000000000
+      internalID: -4909578005844973455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_66"
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 688
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c44b9e120267a00800000000000000
+      internalID: 753825317658053758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_67"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 678
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267d5e8cf31d1a90800000000000000
+      internalID: -7341689842102864343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_68"
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 652
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c55b91997950f0800000000000000
+      internalID: -1127736565396289838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_69"
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 682
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325f78fe93ec18a0800000000000000
+      internalID: -6332936704076328387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_70"
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 674
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a51e397fe5e16770800000000000000
+      internalID: 8602409579948414375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_71"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 650
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42773c55e69349c20800000000000000
+      internalID: 3212255580270065444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_72"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 626
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74492253955c52b0800000000000000
+      internalID: -5594502545874008961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_73"
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 631
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a12a860e56f6dfc0800000000000000
+      internalID: -3470315579145313884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_74"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 628
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5593c98257e895680800000000000000
+      internalID: -8765818565856315051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_75"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 626
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45017288cc078e0800000000000000
+      internalID: -1697632174375676701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_76"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 628
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec43531ae33e7b900800000000000000
+      internalID: 700278125211497678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_77"
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 530
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d60a0638997cee0800000000000000
+      internalID: -1240854382776390375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_78"
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 618
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b792257a5e02210800000000000000
+      internalID: 1306296398738193310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_79"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 618
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50fcf6c835b06e30800000000000000
+      internalID: 4494791683577016414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_80"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 573
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033767f9859741dd0800000000000000
+      internalID: -2516252870253841616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_81"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 610
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187598c05c4eb8ec0800000000000000
+      internalID: -3563503145163597951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_82"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb396099ac88290800000000000000
+      internalID: -7887831988750271274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_83"
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 582
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a123622dcb5ddf50800000000000000
+      internalID: 6907778340059554210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_84"
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 576
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a01ae7824b1a99b0800000000000000
+      internalID: -5072712057717387096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_85"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 562
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f6b30e004da920800000000000000
+      internalID: 3003126955462031402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_86"
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 580
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5ba61de7d8fe4d0800000000000000
+      internalID: -3103106042416155198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_87"
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 564
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886ab7f3f07d2f500800000000000000
+      internalID: 428641375043167880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_88"
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 529
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23fb35d5713e0f50800000000000000
+      internalID: 6849466465435513647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_89"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 546
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d63034ccdaa0ead0800000000000000
+      internalID: -2674950313497053487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_90"
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 562
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ed4ce9466839f60800000000000000
+      internalID: 8039917526505021067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_91"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 13
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f59651565bf1070800000000000000
+      internalID: 8079375702281510793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_92"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 521
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4c3564c4fbf0d20800000000000000
+      internalID: 3247024190675731707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_93"
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 435
+        width: 115
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102a942f92eb7f700800000000000000
+      internalID: 574136564880876033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_94"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 528
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb82e4d75d26400800000000000000
+      internalID: 316049658028277173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_95"
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 531
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564c345b3db67ee50800000000000000
+      internalID: 6838553116208776293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_96"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 533
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f47a7ccbad26040800000000000000
+      internalID: 4639511070483369762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_97"
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 521
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c151ed0616f62fc90800000000000000
+      internalID: -7137519995401136868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_98"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93145696f2743bb90800000000000000
+      internalID: -7227354708042235591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_99"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 497
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de3d882eaade280800000000000000
+      internalID: -9012359389363573356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_100"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 497
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b1b1e5e58eaf6e0800000000000000
+      internalID: -1802873208805057757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_101"
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 293
+        width: 84
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542ba4eeb4585c50800000000000000
+      internalID: 6654161628296848467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_102"
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 423
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c3f2a9bf878bf0800000000000000
+      internalID: -322130820868095346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_103"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 385
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c228db7067152a0800000000000000
+      internalID: -6750484590835389381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_104"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 407
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8500b3b127a14bd70800000000000000
+      internalID: 9057893827934355544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_105"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5858e342a95bdb00800000000000000
+      internalID: 854375107775715421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_106"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 386
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf58f645934fb9d0800000000000000
+      internalID: -2756410138507583546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_107"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 369
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e407521ea27589b90800000000000000
+      internalID: -7234936959693131698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_108"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 375
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7fac262ed879980800000000000000
+      internalID: -8532194965570521128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_109"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14392795eb65a5c0800000000000000
+      internalID: -4204836043252747234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_110"
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 355
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6666725a3541650800000000000000
+      internalID: 6202674555591747284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_111"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 5
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012738665a3a75860800000000000000
+      internalID: 7518658033703154192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_112"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 336
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb1d3878ae0f280800000000000000
+      internalID: -9011444986615316520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_113"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 288
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503be622a2cd1db00800000000000000
+      internalID: 851703878074151685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_114"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 296
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2846f8deb1f304b0800000000000000
+      internalID: -5475266919966291921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_115"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 222
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def67817c3529ed10800000000000000
+      internalID: 2155294838206459885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_116"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 248
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9795c1a49e1979c60800000000000000
+      internalID: 7824883308736305529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_117"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 241
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a5849a568636d0800000000000000
+      internalID: -3011071577253633636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_118"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 222
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9406c3daf9a76610800000000000000
+      internalID: 1614445886195500189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_119"
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 228
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95971735351e020b0800000000000000
+      internalID: -5755352575781013159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_120"
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 241
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d75bfb334beb4c0800000000000000
+      internalID: -4269777262347977340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_121"
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 206
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60354024e74e90b0800000000000000
+      internalID: -5720055431594430357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_122"
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 246
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b922a872de1c940800000000000000
+      internalID: 5314789789350927114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_123"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 237
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12b2ae2e4823a820800000000000000
+      internalID: 2928228498975928859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_124"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 63
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0b32b56b2986d0800000000000000
+      internalID: -2987809162001707919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_125"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 206
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9526e1b51c1230800000000000000
+      internalID: 3610784855058914055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_126"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 219
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff51790ef3e6914d0800000000000000
+      internalID: -3163376042621069825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_127"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157158d102676030800000000000000
+      internalID: 3487864196485444880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_128"
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 216
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a760f549af10610800000000000000
+      internalID: 1585824058967489139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_129"
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f29d380bd518f20800000000000000
+      internalID: 3423120204485963562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_130"
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 216
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765b752716523a40800000000000000
+      internalID: 5346430365055276659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_131"
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 176
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee0c945a7bdb540800000000000000
+      internalID: 5025374679750209125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_132"
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 149
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e30e065271808a0800000000000000
+      internalID: -6338791026217435578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_133"
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 194
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cdff4c91ac54ef0800000000000000
+      internalID: -124471202654725111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_134"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 182
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3deffeb4fe40c820800000000000000
+      internalID: 2936433770128993598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_135"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4342d6b8b7daebc0800000000000000
+      internalID: -3752950151118699701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_136"
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 162
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ef6a7889b8c9620800000000000000
+      internalID: 2782252157035281920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_137"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 109
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6154b44550f44050800000000000000
+      internalID: 5784012070466113902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_138"
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 109
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec9db2378d11870800000000000000
+      internalID: 8651934348323966529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_139"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 124
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d1b0b6a608938f0800000000000000
+      internalID: -560275484080136871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_140"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 102
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e27ef64a9cc2d6e0800000000000000
+      internalID: -1814162736888778007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_141"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 103
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95539b3d6b2347a0800000000000000
+      internalID: -6394219297785031269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_142"
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 101
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c96c1f144fd3ee0800000000000000
+      internalID: -1279598155036976069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_143"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 99
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d883bff02c2d6240800000000000000
+      internalID: 4786530499205236951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_144"
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 93
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c281a8a3f5103ee30800000000000000
+      internalID: 4531467158580500524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_145"
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34542c7921f149e50800000000000000
+      internalID: 6815106300834366787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_146"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f163837c7f0f70800000000000000
+      internalID: 9155673403034824987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_147"
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 53
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd09e40963a79a0800000000000000
+      internalID: -6234610740719723139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_148"
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 66
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345ad8e05392d680800000000000000
+      internalID: -8731754751804681167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_149"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 61
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc9d654f6a057b10800000000000000
+      internalID: 1978499084321660114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_150"
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 47
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41541110699e67ee0800000000000000
+      internalID: -1263565814958570220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_151"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 37
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfc5935dc90c3040800000000000000
+      internalID: 4628585294505299907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_152"
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 36
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2b5660cbef06dc0800000000000000
+      internalID: -3647635614655466761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_153"
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550cbf32b60b41b10800000000000000
+      internalID: 1951378512769957973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_154"
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3fd9919ec8d090800000000000000
+      internalID: -8009424812531302948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_155"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d68014176c029f60800000000000000
+      internalID: 8039501921667548883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_156"
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 36
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a772692e1cc8e4b0800000000000000
+      internalID: -5410850522370246750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_157"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 37
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5c6c2b1ccf34d0800000000000000
+      internalID: -3152576797054574868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_158"
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 37
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5cd959bb9b44ac0800000000000000
+      internalID: -3871765564311616013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_159"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8db30e222ec31580800000000000000
+      internalID: -8857509395911426675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_160"
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 15
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5987f67846716470800000000000000
+      internalID: 8386114034746231135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_161"
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 18
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e67bce0320856080800000000000000
+      internalID: -9194802176146573591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_162"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 143
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3192c7eb212334550800000000000000
+      internalID: 6143809372750096659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cursor Ornamental G\xF3tico em Pixel Art_163"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96104e635324e1b20800000000000000
+      internalID: 3106993589253833065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Cursor Ornamental G\xF3tico em Pixel Art_0": -2607837884285843886
+      "Cursor Ornamental G\xF3tico em Pixel Art_1": -3891646715675292407
+      "Cursor Ornamental G\xF3tico em Pixel Art_10": 4446886668655622596
+      "Cursor Ornamental G\xF3tico em Pixel Art_100": -1802873208805057757
+      "Cursor Ornamental G\xF3tico em Pixel Art_101": 6654161628296848467
+      "Cursor Ornamental G\xF3tico em Pixel Art_102": -322130820868095346
+      "Cursor Ornamental G\xF3tico em Pixel Art_103": -6750484590835389381
+      "Cursor Ornamental G\xF3tico em Pixel Art_104": 9057893827934355544
+      "Cursor Ornamental G\xF3tico em Pixel Art_105": 854375107775715421
+      "Cursor Ornamental G\xF3tico em Pixel Art_106": -2756410138507583546
+      "Cursor Ornamental G\xF3tico em Pixel Art_107": -7234936959693131698
+      "Cursor Ornamental G\xF3tico em Pixel Art_108": -8532194965570521128
+      "Cursor Ornamental G\xF3tico em Pixel Art_109": -4204836043252747234
+      "Cursor Ornamental G\xF3tico em Pixel Art_11": 3350138437661966914
+      "Cursor Ornamental G\xF3tico em Pixel Art_110": 6202674555591747284
+      "Cursor Ornamental G\xF3tico em Pixel Art_111": 7518658033703154192
+      "Cursor Ornamental G\xF3tico em Pixel Art_112": -9011444986615316520
+      "Cursor Ornamental G\xF3tico em Pixel Art_113": 851703878074151685
+      "Cursor Ornamental G\xF3tico em Pixel Art_114": -5475266919966291921
+      "Cursor Ornamental G\xF3tico em Pixel Art_115": 2155294838206459885
+      "Cursor Ornamental G\xF3tico em Pixel Art_116": 7824883308736305529
+      "Cursor Ornamental G\xF3tico em Pixel Art_117": -3011071577253633636
+      "Cursor Ornamental G\xF3tico em Pixel Art_118": 1614445886195500189
+      "Cursor Ornamental G\xF3tico em Pixel Art_119": -5755352575781013159
+      "Cursor Ornamental G\xF3tico em Pixel Art_12": -4764492791411748267
+      "Cursor Ornamental G\xF3tico em Pixel Art_120": -4269777262347977340
+      "Cursor Ornamental G\xF3tico em Pixel Art_121": -5720055431594430357
+      "Cursor Ornamental G\xF3tico em Pixel Art_122": 5314789789350927114
+      "Cursor Ornamental G\xF3tico em Pixel Art_123": 2928228498975928859
+      "Cursor Ornamental G\xF3tico em Pixel Art_124": -2987809162001707919
+      "Cursor Ornamental G\xF3tico em Pixel Art_125": 3610784855058914055
+      "Cursor Ornamental G\xF3tico em Pixel Art_126": -3163376042621069825
+      "Cursor Ornamental G\xF3tico em Pixel Art_127": 3487864196485444880
+      "Cursor Ornamental G\xF3tico em Pixel Art_128": 1585824058967489139
+      "Cursor Ornamental G\xF3tico em Pixel Art_129": 3423120204485963562
+      "Cursor Ornamental G\xF3tico em Pixel Art_13": -4364614775783794126
+      "Cursor Ornamental G\xF3tico em Pixel Art_130": 5346430365055276659
+      "Cursor Ornamental G\xF3tico em Pixel Art_131": 5025374679750209125
+      "Cursor Ornamental G\xF3tico em Pixel Art_132": -6338791026217435578
+      "Cursor Ornamental G\xF3tico em Pixel Art_133": -124471202654725111
+      "Cursor Ornamental G\xF3tico em Pixel Art_134": 2936433770128993598
+      "Cursor Ornamental G\xF3tico em Pixel Art_135": -3752950151118699701
+      "Cursor Ornamental G\xF3tico em Pixel Art_136": 2782252157035281920
+      "Cursor Ornamental G\xF3tico em Pixel Art_137": 5784012070466113902
+      "Cursor Ornamental G\xF3tico em Pixel Art_138": 8651934348323966529
+      "Cursor Ornamental G\xF3tico em Pixel Art_139": -560275484080136871
+      "Cursor Ornamental G\xF3tico em Pixel Art_14": 1656250478291920933
+      "Cursor Ornamental G\xF3tico em Pixel Art_140": -1814162736888778007
+      "Cursor Ornamental G\xF3tico em Pixel Art_141": -6394219297785031269
+      "Cursor Ornamental G\xF3tico em Pixel Art_142": -1279598155036976069
+      "Cursor Ornamental G\xF3tico em Pixel Art_143": 4786530499205236951
+      "Cursor Ornamental G\xF3tico em Pixel Art_144": 4531467158580500524
+      "Cursor Ornamental G\xF3tico em Pixel Art_145": 6815106300834366787
+      "Cursor Ornamental G\xF3tico em Pixel Art_146": 9155673403034824987
+      "Cursor Ornamental G\xF3tico em Pixel Art_147": -6234610740719723139
+      "Cursor Ornamental G\xF3tico em Pixel Art_148": -8731754751804681167
+      "Cursor Ornamental G\xF3tico em Pixel Art_149": 1978499084321660114
+      "Cursor Ornamental G\xF3tico em Pixel Art_15": 1354604471547350786
+      "Cursor Ornamental G\xF3tico em Pixel Art_150": -1263565814958570220
+      "Cursor Ornamental G\xF3tico em Pixel Art_151": 4628585294505299907
+      "Cursor Ornamental G\xF3tico em Pixel Art_152": -3647635614655466761
+      "Cursor Ornamental G\xF3tico em Pixel Art_153": 1951378512769957973
+      "Cursor Ornamental G\xF3tico em Pixel Art_154": -8009424812531302948
+      "Cursor Ornamental G\xF3tico em Pixel Art_155": 8039501921667548883
+      "Cursor Ornamental G\xF3tico em Pixel Art_156": -5410850522370246750
+      "Cursor Ornamental G\xF3tico em Pixel Art_157": -3152576797054574868
+      "Cursor Ornamental G\xF3tico em Pixel Art_158": -3871765564311616013
+      "Cursor Ornamental G\xF3tico em Pixel Art_159": -8857509395911426675
+      "Cursor Ornamental G\xF3tico em Pixel Art_16": -5446394438611625077
+      "Cursor Ornamental G\xF3tico em Pixel Art_160": 8386114034746231135
+      "Cursor Ornamental G\xF3tico em Pixel Art_161": -9194802176146573591
+      "Cursor Ornamental G\xF3tico em Pixel Art_162": 6143809372750096659
+      "Cursor Ornamental G\xF3tico em Pixel Art_163": 3106993589253833065
+      "Cursor Ornamental G\xF3tico em Pixel Art_17": 2153675363032822738
+      "Cursor Ornamental G\xF3tico em Pixel Art_18": 4273821203209424306
+      "Cursor Ornamental G\xF3tico em Pixel Art_19": -4584098596675168834
+      "Cursor Ornamental G\xF3tico em Pixel Art_2": -8083703788387066439
+      "Cursor Ornamental G\xF3tico em Pixel Art_20": 7310796634813904514
+      "Cursor Ornamental G\xF3tico em Pixel Art_21": -7209023387761227966
+      "Cursor Ornamental G\xF3tico em Pixel Art_22": -1687870073580932708
+      "Cursor Ornamental G\xF3tico em Pixel Art_23": 2120817656854249638
+      "Cursor Ornamental G\xF3tico em Pixel Art_24": 3469002951014094161
+      "Cursor Ornamental G\xF3tico em Pixel Art_25": 9016893488729353814
+      "Cursor Ornamental G\xF3tico em Pixel Art_26": 8372397859689455663
+      "Cursor Ornamental G\xF3tico em Pixel Art_27": -3273370946459926194
+      "Cursor Ornamental G\xF3tico em Pixel Art_28": 5080921464824227615
+      "Cursor Ornamental G\xF3tico em Pixel Art_29": 2096021805892319713
+      "Cursor Ornamental G\xF3tico em Pixel Art_3": -3219274876795517309
+      "Cursor Ornamental G\xF3tico em Pixel Art_30": -2170860419334986030
+      "Cursor Ornamental G\xF3tico em Pixel Art_31": 2807743229259117712
+      "Cursor Ornamental G\xF3tico em Pixel Art_32": 5790737865259138448
+      "Cursor Ornamental G\xF3tico em Pixel Art_33": -4665764414743196122
+      "Cursor Ornamental G\xF3tico em Pixel Art_34": 1545708967658177834
+      "Cursor Ornamental G\xF3tico em Pixel Art_35": 1030221982287194544
+      "Cursor Ornamental G\xF3tico em Pixel Art_36": -2794876457086342076
+      "Cursor Ornamental G\xF3tico em Pixel Art_37": 6964235559791460123
+      "Cursor Ornamental G\xF3tico em Pixel Art_38": -7412207261435673826
+      "Cursor Ornamental G\xF3tico em Pixel Art_39": 7785462522074340887
+      "Cursor Ornamental G\xF3tico em Pixel Art_4": 6463813410784651692
+      "Cursor Ornamental G\xF3tico em Pixel Art_40": 8406253947564634325
+      "Cursor Ornamental G\xF3tico em Pixel Art_41": -643053665381410022
+      "Cursor Ornamental G\xF3tico em Pixel Art_42": -7915141764158962992
+      "Cursor Ornamental G\xF3tico em Pixel Art_43": -316374220481791734
+      "Cursor Ornamental G\xF3tico em Pixel Art_44": 5797157639184933406
+      "Cursor Ornamental G\xF3tico em Pixel Art_45": -173375821043014993
+      "Cursor Ornamental G\xF3tico em Pixel Art_46": -560853394527154287
+      "Cursor Ornamental G\xF3tico em Pixel Art_47": 3113219125490451625
+      "Cursor Ornamental G\xF3tico em Pixel Art_48": -7996216341336264579
+      "Cursor Ornamental G\xF3tico em Pixel Art_49": -8133815592921664315
+      "Cursor Ornamental G\xF3tico em Pixel Art_5": -3133360751244636424
+      "Cursor Ornamental G\xF3tico em Pixel Art_50": 7877260488137151663
+      "Cursor Ornamental G\xF3tico em Pixel Art_51": 8407361157386326305
+      "Cursor Ornamental G\xF3tico em Pixel Art_52": -5493425452314536427
+      "Cursor Ornamental G\xF3tico em Pixel Art_53": 7823763756105258398
+      "Cursor Ornamental G\xF3tico em Pixel Art_54": 3772935171594891428
+      "Cursor Ornamental G\xF3tico em Pixel Art_55": 834152940564577124
+      "Cursor Ornamental G\xF3tico em Pixel Art_56": 2356744376962373849
+      "Cursor Ornamental G\xF3tico em Pixel Art_57": -372676718952531366
+      "Cursor Ornamental G\xF3tico em Pixel Art_58": -8286232353502619967
+      "Cursor Ornamental G\xF3tico em Pixel Art_59": 2515075080052149978
+      "Cursor Ornamental G\xF3tico em Pixel Art_6": 2504802929546017980
+      "Cursor Ornamental G\xF3tico em Pixel Art_60": 3447616478658270767
+      "Cursor Ornamental G\xF3tico em Pixel Art_61": 733817070190628967
+      "Cursor Ornamental G\xF3tico em Pixel Art_62": -1190134303113607809
+      "Cursor Ornamental G\xF3tico em Pixel Art_63": -3403835901417465642
+      "Cursor Ornamental G\xF3tico em Pixel Art_64": -41601914784709006
+      "Cursor Ornamental G\xF3tico em Pixel Art_65": -4909578005844973455
+      "Cursor Ornamental G\xF3tico em Pixel Art_66": 753825317658053758
+      "Cursor Ornamental G\xF3tico em Pixel Art_67": -7341689842102864343
+      "Cursor Ornamental G\xF3tico em Pixel Art_68": -1127736565396289838
+      "Cursor Ornamental G\xF3tico em Pixel Art_69": -6332936704076328387
+      "Cursor Ornamental G\xF3tico em Pixel Art_7": -5247900321318747925
+      "Cursor Ornamental G\xF3tico em Pixel Art_70": 8602409579948414375
+      "Cursor Ornamental G\xF3tico em Pixel Art_71": 3212255580270065444
+      "Cursor Ornamental G\xF3tico em Pixel Art_72": -5594502545874008961
+      "Cursor Ornamental G\xF3tico em Pixel Art_73": -3470315579145313884
+      "Cursor Ornamental G\xF3tico em Pixel Art_74": -8765818565856315051
+      "Cursor Ornamental G\xF3tico em Pixel Art_75": -1697632174375676701
+      "Cursor Ornamental G\xF3tico em Pixel Art_76": 700278125211497678
+      "Cursor Ornamental G\xF3tico em Pixel Art_77": -1240854382776390375
+      "Cursor Ornamental G\xF3tico em Pixel Art_78": 1306296398738193310
+      "Cursor Ornamental G\xF3tico em Pixel Art_79": 4494791683577016414
+      "Cursor Ornamental G\xF3tico em Pixel Art_8": 5224053166063401463
+      "Cursor Ornamental G\xF3tico em Pixel Art_80": -2516252870253841616
+      "Cursor Ornamental G\xF3tico em Pixel Art_81": -3563503145163597951
+      "Cursor Ornamental G\xF3tico em Pixel Art_82": -7887831988750271274
+      "Cursor Ornamental G\xF3tico em Pixel Art_83": 6907778340059554210
+      "Cursor Ornamental G\xF3tico em Pixel Art_84": -5072712057717387096
+      "Cursor Ornamental G\xF3tico em Pixel Art_85": 3003126955462031402
+      "Cursor Ornamental G\xF3tico em Pixel Art_86": -3103106042416155198
+      "Cursor Ornamental G\xF3tico em Pixel Art_87": 428641375043167880
+      "Cursor Ornamental G\xF3tico em Pixel Art_88": 6849466465435513647
+      "Cursor Ornamental G\xF3tico em Pixel Art_89": -2674950313497053487
+      "Cursor Ornamental G\xF3tico em Pixel Art_9": -8997221182530655769
+      "Cursor Ornamental G\xF3tico em Pixel Art_90": 8039917526505021067
+      "Cursor Ornamental G\xF3tico em Pixel Art_91": 8079375702281510793
+      "Cursor Ornamental G\xF3tico em Pixel Art_92": 3247024190675731707
+      "Cursor Ornamental G\xF3tico em Pixel Art_93": 574136564880876033
+      "Cursor Ornamental G\xF3tico em Pixel Art_94": 316049658028277173
+      "Cursor Ornamental G\xF3tico em Pixel Art_95": 6838553116208776293
+      "Cursor Ornamental G\xF3tico em Pixel Art_96": 4639511070483369762
+      "Cursor Ornamental G\xF3tico em Pixel Art_97": -7137519995401136868
+      "Cursor Ornamental G\xF3tico em Pixel Art_98": -7227354708042235591
+      "Cursor Ornamental G\xF3tico em Pixel Art_99": -9012359389363573356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
