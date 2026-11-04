@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: b552176f39de12f4f9f8f2bb6dfbbdd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -150089081105510980
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_0
+  - first:
+      213: -733653417632418929
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_1
+  - first:
+      213: 958995266927906324
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_2
+  - first:
+      213: 2347995706301522048
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_3
+  - first:
+      213: 8176983692824137290
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_4
+  - first:
+      213: 6388585512149197058
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_5
+  - first:
+      213: 4079507460734016118
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_6
+  - first:
+      213: -8651442315556563599
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_7
+  - first:
+      213: -9184969893512547828
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_8
+  - first:
+      213: -5889858318606077368
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_9
+  - first:
+      213: -3574464588320685178
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_10
+  - first:
+      213: -3651087633488028186
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_11
+  - first:
+      213: -4483544314620163961
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_12
+  - first:
+      213: -5727364371407247010
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_13
+  - first:
+      213: -6251765052401669887
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_14
+  - first:
+      213: -1162155126952301587
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_15
+  - first:
+      213: 3806838327793480115
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_16
+  - first:
+      213: 994755454431684590
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_17
+  - first:
+      213: 9079571845549730793
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_18
+  - first:
+      213: -1181565836402121292
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_19
+  - first:
+      213: -7678974686730515301
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_20
+  - first:
+      213: -4489869029310142755
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_21
+  - first:
+      213: 189754531868978546
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_22
+  - first:
+      213: 4895092958748333702
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_23
+  - first:
+      213: -7273336461411270912
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_24
+  - first:
+      213: 1152645586312269309
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_25
+  - first:
+      213: 924606131951656152
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_26
+  - first:
+      213: -3710402378499486590
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_27
+  - first:
+      213: 4321124932533087591
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_28
+  - first:
+      213: -4558985465786394623
+    second: Sprite Sheet do Cavaleiro Corrompido (1)_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 535
+        width: 194
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8a04a6c6caedf0800000000000000
+      internalID: -150089081105510980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 535
+        width: 197
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83b4cd8a1a81d5f0800000000000000
+      internalID: -733653417632418929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 534
+        width: 177
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec4824d190f4d00800000000000000
+      internalID: 958995266927906324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 535
+        width: 190
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080ae3897a1c59020800000000000000
+      internalID: 2347995706301522048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 539
+        width: 191
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ec1f8585b7a7170800000000000000
+      internalID: 8176983692824137290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 536
+        width: 209
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2012cd4dca0d8a850800000000000000
+      internalID: 6388585512149197058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 157
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a5b9fdb625d9830800000000000000
+      internalID: 4079507460734016118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 274
+        width: 179
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d7722d07efe780800000000000000
+      internalID: -8651442315556563599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 277
+        width: 168
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02f680cb8e688080800000000000000
+      internalID: -9184969893512547828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 274
+        width: 183
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842fa16a015034ea0800000000000000
+      internalID: -5889858318606077368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 281
+        width: 302
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ceee2563f46ec0800000000000000
+      internalID: -3574464588320685178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 468
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eddf12442bb45dc0800000000000000
+      internalID: -3651087633488028186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 176
+        width: 112
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788c750633047c1c0800000000000000
+      internalID: -4483544314620163961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 193
+        width: 49
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ea07f2705480b0800000000000000
+      internalID: -5727364371407247010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 376
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a560eec44d39a0800000000000000
+      internalID: -6251765052401669887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 352
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debeb14c1123fdfe0800000000000000
+      internalID: -1162155126952301587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 500
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f8752a4b94d430800000000000000
+      internalID: 3806838327793480115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 38
+        width: 338
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee768cbb0d41ecd00800000000000000
+      internalID: 994755454431684590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 32
+        width: 152
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb21a6ec7e110e70800000000000000
+      internalID: 9079571845549730793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 32
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5a38ac12c3a9fe0800000000000000
+      internalID: -1181565836402121292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 77
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c0636153dce6590800000000000000
+      internalID: -7678974686730515301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 146
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6e0fbf7e7c0b1c0800000000000000
+      internalID: -4489869029310142755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_22
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 74
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d229acdb422a200800000000000000
+      internalID: 189754531868978546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_23
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 118
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d5b45c1ddee340800000000000000
+      internalID: 4895092958748333702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 96
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f3fad260bef0b90800000000000000
+      internalID: -7273336461411270912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_25
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 33
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd8014cd050fff00800000000000000
+      internalID: 1152645586312269309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 35
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc5024d06cd4dc00800000000000000
+      internalID: 924606131951656152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 33
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c06cff1b0028cc0800000000000000
+      internalID: -3710402378499486590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 36
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de7b95b38b7fb30800000000000000
+      internalID: 4321124932533087591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet do Cavaleiro Corrompido (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 54
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10812a79fda3bb0c0800000000000000
+      internalID: -4558985465786394623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite Sheet do Cavaleiro Corrompido (1)_0: -150089081105510980
+      Sprite Sheet do Cavaleiro Corrompido (1)_1: -733653417632418929
+      Sprite Sheet do Cavaleiro Corrompido (1)_10: -3574464588320685178
+      Sprite Sheet do Cavaleiro Corrompido (1)_11: -3651087633488028186
+      Sprite Sheet do Cavaleiro Corrompido (1)_12: -4483544314620163961
+      Sprite Sheet do Cavaleiro Corrompido (1)_13: -5727364371407247010
+      Sprite Sheet do Cavaleiro Corrompido (1)_14: -6251765052401669887
+      Sprite Sheet do Cavaleiro Corrompido (1)_15: -1162155126952301587
+      Sprite Sheet do Cavaleiro Corrompido (1)_16: 3806838327793480115
+      Sprite Sheet do Cavaleiro Corrompido (1)_17: 994755454431684590
+      Sprite Sheet do Cavaleiro Corrompido (1)_18: 9079571845549730793
+      Sprite Sheet do Cavaleiro Corrompido (1)_19: -1181565836402121292
+      Sprite Sheet do Cavaleiro Corrompido (1)_2: 958995266927906324
+      Sprite Sheet do Cavaleiro Corrompido (1)_20: -7678974686730515301
+      Sprite Sheet do Cavaleiro Corrompido (1)_21: -4489869029310142755
+      Sprite Sheet do Cavaleiro Corrompido (1)_22: 189754531868978546
+      Sprite Sheet do Cavaleiro Corrompido (1)_23: 4895092958748333702
+      Sprite Sheet do Cavaleiro Corrompido (1)_24: -7273336461411270912
+      Sprite Sheet do Cavaleiro Corrompido (1)_25: 1152645586312269309
+      Sprite Sheet do Cavaleiro Corrompido (1)_26: 924606131951656152
+      Sprite Sheet do Cavaleiro Corrompido (1)_27: -3710402378499486590
+      Sprite Sheet do Cavaleiro Corrompido (1)_28: 4321124932533087591
+      Sprite Sheet do Cavaleiro Corrompido (1)_29: -4558985465786394623
+      Sprite Sheet do Cavaleiro Corrompido (1)_3: 2347995706301522048
+      Sprite Sheet do Cavaleiro Corrompido (1)_4: 8176983692824137290
+      Sprite Sheet do Cavaleiro Corrompido (1)_5: 6388585512149197058
+      Sprite Sheet do Cavaleiro Corrompido (1)_6: 4079507460734016118
+      Sprite Sheet do Cavaleiro Corrompido (1)_7: -8651442315556563599
+      Sprite Sheet do Cavaleiro Corrompido (1)_8: -9184969893512547828
+      Sprite Sheet do Cavaleiro Corrompido (1)_9: -5889858318606077368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
